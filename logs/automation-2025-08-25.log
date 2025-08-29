@@ -1,0 +1,40 @@
+2025-08-23 23:31:56,519(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message....
+2025-08-23 23:31:56,562(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest*****
+2025-08-23 23:31:59,425(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest - ***1.starting TC002_LoginTest*******
+2025-08-23 23:32:00,854(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest - ***1.Finished TC002_LoginTest*******
+2025-08-23 23:34:29,461(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+2025-08-23 23:34:29,577(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+2025-08-23 23:34:30,516(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-08-23 23:34:30,520(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.....
+2025-08-23 23:34:31,770(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message....
+2025-08-23 23:34:31,808(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest*****
+2025-08-23 23:34:43,231(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest - ***1.starting TC002_LoginTest*******
+2025-08-23 23:42:46,182(HH:mm:ss.SSS) [main] INFO  testCases.TC003_LoginDDT - **1.starting TC003 LoginDDT********
+2025-08-23 23:42:57,343(HH:mm:ss.SSS) [main] INFO  testCases.TC003_LoginDDT - **END.finished TC003 LoginDDT********
+2025-08-23 23:42:57,357(HH:mm:ss.SSS) [main] INFO  testCases.TC003_LoginDDT - **1.starting TC003 LoginDDT********
+2025-08-23 23:43:07,683(HH:mm:ss.SSS) [main] INFO  testCases.TC003_LoginDDT - **END.finished TC003 LoginDDT********
+2025-08-23 23:43:07,687(HH:mm:ss.SSS) [main] INFO  testCases.TC003_LoginDDT - **1.starting TC003 LoginDDT********
+2025-08-23 23:44:22,648(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+2025-08-23 23:44:22,739(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+2025-08-23 23:44:23,303(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-08-23 23:44:23,304(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.....
+2025-08-23 23:44:23,795(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message....
+2025-08-23 23:44:24,543(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest*****
+2025-08-23 23:44:27,739(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest - ***1.starting TC002_LoginTest*******
+2025-08-23 23:46:13,372(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest - ***1.starting TC002_LoginTest*******
+2025-08-23 23:46:14,717(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest - ***1.Finished TC002_LoginTest*******
+2025-08-25 16:33:10,180(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+2025-08-25 16:33:10,218(HH:mm:ss.SSS) [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed.....
+2025-08-25 21:09:02,158(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+2025-08-25 21:09:02,277(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+2025-08-25 21:09:03,145(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-08-25 21:09:03,151(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details.....
+2025-08-25 21:09:05,546(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message....
+2025-08-25 21:09:05,594(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest*****
+2025-08-25 21:09:11,199(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest - ***1.starting TC002_LoginTest*******
+2025-08-25 21:09:12,739(HH:mm:ss.SSS) [main] INFO  testCases.TC002_LoginTest - ***1.Finished TC002_LoginTest*******
+2025-08-25 22:06:36,544(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+2025-08-25 22:06:36,559(HH:mm:ss.SSS) [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed.....
+2025-08-25 22:08:44,072(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+2025-08-25 22:08:44,108(HH:mm:ss.SSS) [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed.....
+2025-08-25 22:24:19,767(HH:mm:ss.SSS) [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
